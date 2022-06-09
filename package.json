@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/westHua00/vite-plugin-replace-elementui-prefix"
+  },
+  "bugs": {
+    "url": "https://github.com/westHua00/vite-plugin-replace-elementui-prefix/issues"
+  },
+  "homepage": "https://github.com/westHua00/vite-plugin-replace-elementui-prefix/#readme",
   "keywords": [
     "vite",
     "element-ui",
