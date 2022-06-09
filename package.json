@@ -1,0 +1,26 @@
+{
+  "name": "vite-plugin-replace-elementui-prefix",
+  "version": "1.0.1",
+  "description": "a vite plugin to replace element-ui prefix",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vite",
+    "element-ui",
+    "replace",
+    "garfish"
+  ],
+  "author": "845128109@qq.com",
+  "license": "ISC",
+  "peerDependencies": {
+    "vite": ">=2.0.0",
+    "element-ui": "^2.15.8"
+  },
+  "dependencies": {
+    "@babel/generator": "^7.18.2",
+    "@babel/parser": "^7.18.4",
+    "@babel/traverse": "^7.18.2"
+  }
+}
